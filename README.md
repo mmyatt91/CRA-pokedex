@@ -1,3 +1,9 @@
+# React Props: Pokemon
+Springboard Software Engineering Track 39.3: React Modules & CRA
+Subunit Exercise: Create a pokemon application (a “pokedex”) that displays an interface.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
